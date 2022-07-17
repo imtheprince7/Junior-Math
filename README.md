@@ -1,2 +1,2 @@
 # Junior-Math
-Web application where kids can practise basic math and arithmetic calculation in interactive manner
+Web application for kids where they can practice basic 6+ different types of mathematics operations.
